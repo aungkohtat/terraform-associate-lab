@@ -1,2 +1,2 @@
-# Terraform AWS Lab
+# Terraform Associate Lab
 
